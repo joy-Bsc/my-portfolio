@@ -1,6 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 import Nav from './Nav';
+import {Button} from '../ui/Button';
 import MobileNav from './MobileNav';
 import Image from 'next/image';
 const Header = () => {
